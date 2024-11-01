@@ -1,0 +1,216 @@
+@font-face {
+    font-family: "OutdoorActivities";
+    src: url("../fonts/outdoor-activities.eot");
+    src: url("../fonts/outdoor-activities.eot#iefix") format("embedded-opentype"), url("../fonts/outdoor-activities.woff") format("woff"), url("../fonts/outdoor-activities.ttf") format("truetype"), url("../fonts/outdoor-activities.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-oa-"]:before,
+[class*=" icon-oa-"]:before,
+[class^="icon-oa-"]:after,
+[class*=" icon-oa-"]:after {
+    font-family: OutdoorActivities;
+    font-style: normal;
+    margin-left: 0;
+}
+
+.icon-oa-badminton:before {
+    content: "\e000";
+}
+
+.icon-oa-bike:before {
+    content: "\e001";
+}
+
+.icon-oa-boating:before {
+    content: "\e002";
+}
+
+.icon-oa-camera:before {
+    content: "\e003";
+}
+
+.icon-oa-cart:before {
+    content: "\e004";
+}
+
+.icon-oa-catch:before {
+    content: "\e005";
+}
+
+.icon-oa-climbing:before {
+    content: "\e006";
+}
+
+.icon-oa-climb:before {
+    content: "\e007";
+}
+
+.icon-oa-clim:before {
+    content: "\e008";
+}
+
+.icon-oa-cook:before {
+    content: "\e009";
+}
+
+.icon-oa-cycling:before {
+    content: "\e00a";
+}
+
+.icon-oa-deer:before {
+    content: "\e00b";
+}
+
+.icon-oa-direction:before {
+    content: "\e00c";
+}
+
+.icon-oa-drive:before {
+    content: "\e00d";
+}
+
+.icon-oa-fences:before {
+    content: "\e00e";
+}
+
+.icon-oa-fish:before {
+    content: "\e00f";
+}
+
+.icon-oa-fish:before {
+    content: "\e010";
+}
+
+.icon-oa-golfing:before {
+    content: "\e011";
+}
+
+.icon-oa-house:before {
+    content: "\e012";
+}
+
+.icon-oa-jump:before {
+    content: "\e013";
+}
+
+.icon-oa-light:before {
+    content: "\e014";
+}
+
+.icon-oa-mountain:before {
+    content: "\e015";
+}
+
+.icon-oa-olympic:before {
+    content: "\e016";
+}
+
+.icon-oa-olympic:before {
+    content: "\e017";
+}
+
+.icon-oa-orientation:before {
+    content: "\e018";
+}
+
+.icon-oa-park:before {
+    content: "\e019";
+}
+
+.icon-oa-park:before {
+    content: "\e01a";
+}
+
+.icon-oa-picnic:before {
+    content: "\e01b";
+}
+
+.icon-oa-pine:before {
+    content: "\e01c";
+}
+
+.icon-oa-play:before {
+    content: "\e01d";
+}
+
+.icon-oa-pole:before {
+    content: "\e01e";
+}
+
+.icon-oa-race:before {
+    content: "\e01f";
+}
+
+.icon-oa-rock:before {
+    content: "\e020";
+}
+
+.icon-oa-run:before {
+    content: "\e021";
+}
+
+.icon-oa-sail:before {
+    content: "\e022";
+}
+
+.icon-oa-skater:before {
+    content: "\e023";
+}
+
+.icon-oa-ski:before {
+    content: "\e024";
+}
+
+.icon-oa-ski2:before {
+    content: "\e025";
+}
+
+.icon-oa-sleeping:before {
+    content: "\e026";
+}
+
+.icon-oa-sport:before {
+    content: "\e027";
+}
+
+.icon-oa-spy:before {
+    content: "\e028";
+}
+
+.icon-oa-steps:before {
+    content: "\e029";
+}
+
+.icon-oa-surf:before {
+    content: "\e02a";
+}
+
+.icon-oa-table:before {
+    content: "\e02b";
+}
+
+.icon-oa-tent:before {
+    content: "\e02c";
+}
+
+.icon-oa-training:before {
+    content: "\e02d";
+}
+
+.icon-oa-vehicle:before {
+    content: "\e02e";
+}
+
+.icon-oa-walk:before {
+    content: "\e02f";
+}
+
+.icon-oa-walk2:before {
+    content: "\e030";
+}
+
+.icon-oa-weapon:before {
+    content: "\e031";
+}

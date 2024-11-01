@@ -1,0 +1,416 @@
+@font-face {
+    font-family: "NewYearProposal";
+    src: url("../fonts/newyearproposal.eot");
+    src: url("../fonts/newyearproposal.eot#iefix") format("embedded-opentype"), url("../fonts/newyearproposal.woff") format("woff"), url("../fonts/newyearproposal.ttf") format("truetype"), url("../fonts/newyearproposal.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="newyearproposal-"]:before,
+[class*=" newyearproposal-"]:before,
+[class^="newyearproposal-"]:after,
+[class*=" newyearproposal-"]:after {
+    font-family: NewYearProposal;
+    font-style: normal;
+    margin: 0;
+}
+
+.newyearproposal-accomodation:before {
+    content: "\e000";
+}
+
+.newyearproposal-avatar:before {
+    content: "\e001";
+}
+
+.newyearproposal-babies:before {
+    content: "\e002";
+}
+
+.newyearproposal-baby:before {
+    content: "\e003";
+}
+
+.newyearproposal-baby2:before {
+    content: "\e004";
+}
+
+.newyearproposal-baby-carriage:before {
+    content: "\e005";
+}
+
+.newyearproposal-bank:before {
+    content: "\e006";
+}
+
+.newyearproposal-bar:before {
+    content: "\e007";
+}
+
+.newyearproposal-basket:before {
+    content: "\e008";
+}
+
+.newyearproposal-bills:before {
+    content: "\e009";
+}
+
+.newyearproposal-birthday:before {
+    content: "\e00a";
+}
+
+.newyearproposal-briefcase:before {
+    content: "\e00b";
+}
+
+.newyearproposal-camper:before {
+    content: "\e00c";
+}
+
+.newyearproposal-cheese:before {
+    content: "\e00d";
+}
+
+.newyearproposal-coins:before {
+    content: "\e00e";
+}
+
+.newyearproposal-commerce:before {
+    content: "\e00f";
+}
+
+.newyearproposal-credit:before {
+    content: "\e010";
+}
+
+.newyearproposal-cruse:before {
+    content: "\e011";
+}
+
+.newyearproposal-currency:before {
+    content: "\e012";
+}
+
+.newyearproposal-cycling:before {
+    content: "\e013";
+}
+
+.newyearproposal-diet:before {
+    content: "\e014";
+}
+
+.newyearproposal-diet2:before {
+    content: "\e015";
+}
+
+.newyearproposal-direction:before {
+    content: "\e016";
+}
+
+.newyearproposal-dive:before {
+    content: "\e017";
+}
+
+.newyearproposal-dollar:before {
+    content: "\e018";
+}
+
+.newyearproposal-dollar-symbol:before {
+    content: "\e019";
+}
+
+.newyearproposal-drink:before {
+    content: "\e01a";
+}
+
+.newyearproposal-drink2:before {
+    content: "\e01b";
+}
+
+.newyearproposal-dumbbell:before {
+    content: "\e01c";
+}
+
+.newyearproposal-dumbell:before {
+    content: "\e01d";
+}
+
+.newyearproposal-earn:before {
+    content: "\e01e";
+}
+
+.newyearproposal-ekg:before {
+    content: "\e01f";
+}
+
+.newyearproposal-fish:before {
+    content: "\e020";
+}
+
+.newyearproposal-flower:before {
+    content: "\e021";
+}
+
+.newyearproposal-flying:before {
+    content: "\e022";
+}
+
+.newyearproposal-football:before {
+    content: "\e023";
+}
+
+.newyearproposal-fruit:before {
+    content: "\e024";
+}
+
+.newyearproposal-fruits:before {
+    content: "\e025";
+}
+
+.newyearproposal-hand:before {
+    content: "\e026";
+}
+
+.newyearproposal-healthy-food:before {
+    content: "\e027";
+}
+
+.newyearproposal-healthy-food2:before {
+    content: "\e028";
+}
+
+.newyearproposal-healthy-food3:before {
+    content: "\e029";
+}
+
+.newyearproposal-hearts:before {
+    content: "\e02a";
+}
+
+.newyearproposal-heart:before {
+    content: "\e02b";
+}
+
+.newyearproposal-holidays:before {
+    content: "\e02c";
+}
+
+.newyearproposal-house:before {
+    content: "\e02d";
+}
+
+.newyearproposal-incomes:before {
+    content: "\e02e";
+}
+
+.newyearproposal-kids:before {
+    content: "\e02f";
+}
+
+.newyearproposal-location:before {
+    content: "\e030";
+}
+
+.newyearproposal-location:before {
+    content: "\e031";
+}
+
+.newyearproposal-love:before {
+    content: "\e032";
+}
+
+.newyearproposal-love2:before {
+    content: "\e033";
+}
+
+.newyearproposal-love3:before {
+    content: "\e034";
+}
+
+.newyearproposal-measure:before {
+    content: "\e035";
+}
+
+.newyearproposal-medicine:before {
+    content: "\e036";
+}
+
+.newyearproposal-money:before {
+    content: "\e037";
+}
+
+.newyearproposal-money2:before {
+    content: "\e038";
+}
+
+.newyearproposal-money3:before {
+    content: "\e039";
+}
+
+.newyearproposal-money4:before {
+    content: "\e03a";
+}
+
+.newyearproposal-money-bag:before {
+    content: "\e03b";
+}
+
+.newyearproposal-movie:before {
+    content: "\e03c";
+}
+
+.newyearproposal-mp:before {
+    content: "\e03d";
+}
+
+.newyearproposal-notification:before {
+    content: "\e03e";
+}
+
+.newyearproposal-pass:before {
+    content: "\e03f";
+}
+
+.newyearproposal-passport:before {
+    content: "\e040";
+}
+
+.newyearproposal-picture-taking:before {
+    content: "\e041";
+}
+
+.newyearproposal-pie:before {
+    content: "\e042";
+}
+
+.newyearproposal-pipe:before {
+    content: "\e043";
+}
+
+.newyearproposal-protection:before {
+    content: "\e044";
+}
+
+.newyearproposal-proteins:before {
+    content: "\e045";
+}
+
+.newyearproposal-public-transport:before {
+    content: "\e046";
+}
+
+.newyearproposal-rings:before {
+    content: "\e047";
+}
+
+.newyearproposal-safari:before {
+    content: "\e048";
+}
+
+.newyearproposal-sail:before {
+    content: "\e049";
+}
+
+.newyearproposal-savings:before {
+    content: "\e04a";
+}
+
+.newyearproposal-savings:before {
+    content: "\e04b";
+}
+
+.newyearproposal-search:before {
+    content: "\e04c";
+}
+
+.newyearproposal-shoes:before {
+    content: "\e04d";
+}
+
+.newyearproposal-shrimp:before {
+    content: "\e04e";
+}
+
+.newyearproposal-silhouette:before {
+    content: "\e04f";
+}
+
+.newyearproposal-smoking:before {
+    content: "\e050";
+}
+
+.newyearproposal-smoking2:before {
+    content: "\e051";
+}
+
+.newyearproposal-sportsball:before {
+    content: "\e052";
+}
+
+.newyearproposal-sportsball2:before {
+    content: "\e053";
+}
+
+.newyearproposal-sprig:before {
+    content: "\e054";
+}
+
+.newyearproposal-sprint:before {
+    content: "\e055";
+}
+
+.newyearproposal-stickman:before {
+    content: "\e056";
+}
+
+.newyearproposal-stickman2:before {
+    content: "\e057";
+}
+
+.newyearproposal-suit:before {
+    content: "\e058";
+}
+
+.newyearproposal-suitcases:before {
+    content: "\e059";
+}
+
+.newyearproposal-tepee:before {
+    content: "\e05a";
+}
+
+.newyearproposal-timer:before {
+    content: "\e05b";
+}
+
+.newyearproposal-toast:before {
+    content: "\e05c";
+}
+
+.newyearproposal-vegan:before {
+    content: "\e05d";
+}
+
+.newyearproposal-video:before {
+    content: "\e05e";
+}
+
+.newyearproposal-wedding:before {
+    content: "\e05f";
+}
+
+.newyearproposal-wedding2:before {
+    content: "\e060";
+}
+
+.newyearproposal-wedding3:before {
+    content: "\e061";
+}
+
+.newyearproposal-weightlifting:before {
+    content: "\e062";
+}
+
+.newyearproposal-winners:before {
+    content: "\e063";
+}

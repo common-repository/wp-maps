@@ -1,0 +1,714 @@
+# Copyright (C) 2013 TODO
+# This file is distributed under the same license as the TODO package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TODO 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/wp-maps\n"
+"POT-Creation-Date: 2015-10-22 19:02+0200\n"
+"PO-Revision-Date: 2014-07-07 18:52+0100\n"
+"Last-Translator: Mte90 <mte90net@gmail.com>\n"
+"Language-Team: LANGUAGE <translations@example.com >\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wp-maps-admin.php:105
+msgid "Plugin Loaded"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:251 admin/class-wp-maps-admin.php:257
+#: admin/class-wp-maps-admin.php:605
+msgid "Wp Maps Settings"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:277
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:326
+#, php-format
+msgid "%s "
+msgid_plural "%s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-wp-maps-admin.php:429
+msgid "Map Options"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:437 admin/views/admin.php:215
+msgid "Sea Color"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:438 admin/class-wp-maps-admin.php:446
+#: admin/views/admin.php:216 admin/views/admin.php:226
+msgid "field description (optional)"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:445 admin/views/admin.php:225
+msgid "Road Color"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:455
+msgid "Location"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:543
+msgid "Please upload a valid .json file"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:549
+msgid "Please upload a file to import"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:598
+msgid "Wp Maps Management"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:624
+msgid "Wp Maps Help"
+msgstr ""
+
+#: admin/class-wp-maps-admin.php:625
+#: admin/includes/PointerPlus/pointerplus.php:115
+msgid ""
+"A pointer for help tab.<br>Go to Posts, Pages or Users for other pointers."
+msgstr ""
+
+#: admin/includes/CMB2-Shortcode/shortcode-button.php:39
+msgid "Cancel"
+msgstr ""
+
+#: admin/includes/CMB2-Shortcode/shortcode-button.php:40
+msgid "Insert Shortcode"
+msgstr ""
+
+#: admin/includes/CMB2-Shortcode/shortcode-button.php:300
+msgid "failed verification"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2.php:108
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2.php:314
+msgid "Click to toggle"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Field.php:891
+msgid "Add Group"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Field.php:892
+msgid "Remove Group"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Field.php:914
+#: admin/includes/CMB2/includes/CMB2_Field.php:918
+msgid "None"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:86
+#: admin/includes/CMB2/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:109
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:115
+#: admin/includes/PointerPlus/pointerplus.php:105
+msgid "Next"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:118
+#: admin/includes/CMB2/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:129
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:136
+#: admin/includes/CMB2/includes/CMB2_Types.php:983
+msgid "Remove Image"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:137
+#: admin/includes/CMB2/includes/CMB2_Types.php:356
+#: admin/includes/CMB2/includes/CMB2_Types.php:1002
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:138
+#: admin/includes/CMB2/includes/CMB2_Types.php:997
+msgid "File:"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:139
+#: admin/includes/CMB2/includes/CMB2_Types.php:1000
+msgid "Download"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_JS.php:140
+msgid "Select / Deselect All"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Types.php:734
+#: admin/includes/CMB2/includes/CMB2_Types.php:782
+msgid "No terms"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Types.php:847
+msgid "Add or Upload Files"
+msgstr ""
+
+#: admin/includes/CMB2/includes/CMB2_Types.php:907
+msgid "Add or Upload File"
+msgstr ""
+
+#: admin/includes/CMB2/includes/helper-functions.php:249
+msgid "Save"
+msgstr ""
+
+#: admin/includes/PointerPlus/class-pointerplus.php:70
+msgid "PointerPlus Error: post_type is not an array!"
+msgstr ""
+
+#: admin/includes/PointerPlus/class-pointerplus.php:93
+msgid "PointerPlus Error: pages is not an array!"
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:65
+msgid "PointerPlus Test"
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:66
+msgid "The plugin is active and ready to start working."
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:69
+msgid "Open Popup"
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:78
+msgid "PointerPlus for Posts"
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:79
+msgid "One more pointer."
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:86
+msgid "PointerPlus Pages"
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:87
+msgid "A pointer for pages."
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:93
+msgid "PointerPlus Users"
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:94
+msgid "A pointer for users."
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:100
+#: admin/includes/PointerPlus/pointerplus.php:114
+msgid "PointerPlus Help"
+msgstr ""
+
+#: admin/includes/PointerPlus/pointerplus.php:101
+msgid "A pointer with action."
+msgstr ""
+
+#: admin/views/admin.php:178 includes/widgets/mm-widget-map.php:20
+msgid "Wp Maps"
+msgstr ""
+
+#: admin/views/admin.php:182
+msgid "If you like this plugin please rate it. find support at "
+msgstr ""
+
+#: admin/views/admin.php:182
+msgid "mimo.media"
+msgstr ""
+
+#: admin/views/admin.php:188
+msgid "General"
+msgstr ""
+
+#: admin/views/admin.php:189
+msgid "Posts"
+msgstr ""
+
+#: admin/views/admin.php:191
+msgid "Products"
+msgstr ""
+
+#: admin/views/admin.php:192
+msgid "Attributes"
+msgstr ""
+
+#: admin/views/admin.php:194
+msgid "Import/Export"
+msgstr ""
+
+#: admin/views/admin.php:198
+msgid "General Settings"
+msgstr ""
+
+#: admin/views/admin.php:241
+msgid "Set Posts Colors and Icons"
+msgstr ""
+
+#: admin/views/admin.php:258
+msgid "The category color"
+msgstr ""
+
+#: admin/views/admin.php:260 admin/views/admin.php:340
+#: admin/views/admin.php:421
+msgid "Color {#}"
+msgstr ""
+
+#: admin/views/admin.php:261 admin/views/admin.php:341
+#: admin/views/admin.php:422
+msgid "Add Another Color"
+msgstr ""
+
+#: admin/views/admin.php:262 admin/views/admin.php:342
+#: admin/views/admin.php:423
+msgid "Remove Color"
+msgstr ""
+
+#: admin/views/admin.php:268 admin/views/admin.php:348
+msgid "Category Color"
+msgstr ""
+
+#: admin/views/admin.php:269 admin/views/admin.php:279
+#: admin/views/admin.php:349 admin/views/admin.php:359
+msgid "Choose a color to apply to acategory icons and info"
+msgstr ""
+
+#: admin/views/admin.php:278 admin/views/admin.php:358
+#: admin/views/admin.php:439
+msgid "Icon Color"
+msgstr ""
+
+#: admin/views/admin.php:292 admin/views/admin.php:372
+#: admin/views/admin.php:452
+msgid "Icon"
+msgstr ""
+
+#: admin/views/admin.php:293 admin/views/admin.php:373
+#: admin/views/admin.php:453
+msgid "Choose icon"
+msgstr ""
+
+#: admin/views/admin.php:304 admin/views/admin.php:384
+#: public/class-wp-maps.php:116
+msgid "Category"
+msgstr ""
+
+#: admin/views/admin.php:305 admin/views/admin.php:385
+#: admin/views/admin.php:480
+msgid "Choose a category to apply settings"
+msgstr ""
+
+#: admin/views/admin.php:321
+msgid "Set Products Colors and Icons"
+msgstr ""
+
+#: admin/views/admin.php:338
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: admin/views/admin.php:419
+msgid "Add colors and icons to your attributes terms"
+msgstr ""
+
+#: admin/views/admin.php:430
+msgid "Term Color"
+msgstr ""
+
+#: admin/views/admin.php:431 admin/views/admin.php:440
+msgid "Choose a color to apply to attribute term"
+msgstr ""
+
+#: admin/views/admin.php:479
+msgid "Term"
+msgstr ""
+
+#: admin/views/admin.php:498
+msgid "Export Settings"
+msgstr ""
+
+#: admin/views/admin.php:500
+msgid ""
+"Export the plugin settings for this site as a .json file. This allows you to "
+"easily import the configuration into another site."
+msgstr ""
+
+#: admin/views/admin.php:505
+msgid "Export"
+msgstr ""
+
+#: admin/views/admin.php:512
+msgid "Import Settings"
+msgstr ""
+
+#: admin/views/admin.php:514
+msgid ""
+"Import the plugin settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr ""
+
+#: admin/views/admin.php:522
+msgid "Import"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:67 includes/CPT_Core/CPT_Core.php:71
+#: includes/CPT_Core/CPT_Core.php:75
+msgid "It is required to pass a single, plural and slug string to CPT_Core"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:124 includes/CPT_Core/CPT_Core.php:125
+#: includes/Taxonomy_Core/Taxonomy_Core.php:121
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:126
+#: includes/Taxonomy_Core/Taxonomy_Core.php:118
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:127
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:128
+#: includes/Taxonomy_Core/Taxonomy_Core.php:117
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:129
+#: includes/Taxonomy_Core/Taxonomy_Core.php:119
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:130
+#: includes/Taxonomy_Core/Taxonomy_Core.php:116
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:131
+#: includes/Taxonomy_Core/Taxonomy_Core.php:124
+#, php-format
+msgid "No %s"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:132
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:133
+#: includes/Taxonomy_Core/Taxonomy_Core.php:128
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:184
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:185
+msgid "Custom field deleted."
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:186 includes/CPT_Core/CPT_Core.php:203
+#, php-format
+msgid "%1$s updated."
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:188
+#, php-format
+msgid "%1$s restored to revision from %2$s"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:189
+#, php-format
+msgid "%1$s saved."
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:194
+#, php-format
+msgid "%1$s updated. <a href=\"%2$s\">View %1$s</a>"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:195
+#, php-format
+msgid "%1$s published. <a href=\"%2$s\">View %1$s</a>"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:196
+#, php-format
+msgid "%1$s submitted. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:198
+#, php-format
+msgid ""
+"%1$s scheduled for: <strong>%2$s</strong>. <a target=\"_blank\" href=\"%3$s"
+"\">Preview %1$s</a>"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:198 includes/CPT_Core/CPT_Core.php:207
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:199
+#, php-format
+msgid "%1$s draft updated. <a target=\"_blank\" href=\"%2$s\">Preview %1$s</a>"
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:204
+#, php-format
+msgid "%1$s published."
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:205
+#, php-format
+msgid "%1$s submitted."
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:207
+#, php-format
+msgid "%1$s scheduled for: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:208
+#, php-format
+msgid "%1$s draft updated."
+msgstr ""
+
+#: includes/CPT_Core/CPT_Core.php:257
+#, php-format
+msgid "%s Title"
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:74
+#: includes/Taxonomy_Core/Taxonomy_Core.php:78
+#: includes/Taxonomy_Core/Taxonomy_Core.php:82
+msgid ""
+"It is required to pass a single, plural and slug string to Taxonomy_Core"
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:120
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:122
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:123
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:127
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:131
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:132
+#, php-format
+msgid "Separate %s with commas"
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:133
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: includes/Taxonomy_Core/Taxonomy_Core.php:134
+#, php-format
+msgid "Choose from the most used %s"
+msgstr ""
+
+#: includes/widgets/mm-widget-map.php:21
+msgid "A News Shop_Map Widget in which you can choose the map to display"
+msgstr ""
+
+#: includes/widgets/mm-widget-map.php:88
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/mm-widget-map.php:92
+msgid "Post Type to use:"
+msgstr ""
+
+#: includes/widgets/mm-widget-map.php:113
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets/mm-widget-map.php:119
+msgid "Map id"
+msgstr ""
+
+#: includes/widgets/mm-widget-map.php:124
+msgid "Post id"
+msgstr ""
+
+#: includes/widgets/mm-widget-map.php:129
+msgid "Category id"
+msgstr ""
+
+#: includes/widgets/mm-widget-map.php:133
+msgid "Map Opened:"
+msgstr ""
+
+#: public/class-wp-maps.php:102
+msgid "Map"
+msgstr ""
+
+#: public/class-wp-maps.php:102
+msgid "Maps"
+msgstr ""
+
+#: public/class-wp-maps.php:116
+msgid "Categories"
+msgstr ""
+
+#: public/includes/requirements.php:178 public/includes/requirements.php:227
+msgid " Required, Detected "
+msgstr ""
+
+#: public/includes/requirements.php:291
+msgid "PHP Extensions Not Found: "
+msgstr ""
+
+#: public/includes/requirements.php:356
+msgid " Required"
+msgstr ""
+
+#: public/includes/requirements.php:461
+msgid "Minimum System Requirements not satisfied for: "
+msgstr ""
